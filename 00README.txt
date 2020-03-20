@@ -1,5 +1,5 @@
 *********************************************************************
-Updated: Isaac Gutiérrez, 20/03/2020, isaacgp/CoM
+Updated: Isaac Gutiérrez, 20/03/2020, isaacgp/CoM-and-ZMP-for-Humanoid
 
 *********************************************************************
   Sample proglams of Introduction to Humanoid Robotics
